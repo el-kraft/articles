@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>First Post &#8211; Reza&#039;s Blog</title>
+	<title>First Post &#8211; El-kraft blogg</title>
 	<atom:link href="/articles/category/first-post/feed/" rel="self" type="application/rss+xml" />
 	<link>/articles</link>
-	<description>Just another WordPress site</description>
+	<description>Allt om energi och elkraft.</description>
 	<lastBuildDate>Sat, 15 Jul 2017 20:12:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

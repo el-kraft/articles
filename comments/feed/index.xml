@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments for Reza&#039;s Blog</title>
+	<title>Comments for El-kraft blogg</title>
 	<atom:link href="/articles/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/articles</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 16 Jul 2017 10:42:17 +0000</lastBuildDate>
+	<description>Allt om energi och elkraft.</description>
+	<lastBuildDate>Sun, 16 Jul 2017 11:04:20 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>
