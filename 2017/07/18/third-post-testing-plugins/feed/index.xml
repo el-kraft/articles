@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments for El-kraft blogg</title>
-	<atom:link href="/articles/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/articles</link>
+	<title>Comments on: third post testing plugins</title>
+	<atom:link href="/articles/2017/07/18/third-post-testing-plugins/feed/" rel="self" type="application/rss+xml" />
+	<link>/articles/2017/07/18/third-post-testing-plugins/</link>
 	<description>Allt om energi och elkraft.</description>
-	<lastBuildDate>Tue, 18 Jul 2017 20:45:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jul 2017 20:46:00 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>

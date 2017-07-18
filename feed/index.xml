@@ -12,12 +12,57 @@
 	<atom:link href="/articles/feed/" rel="self" type="application/rss+xml" />
 	<link>/articles</link>
 	<description>Allt om energi och elkraft.</description>
-	<lastBuildDate>Sat, 15 Jul 2017 20:12:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jul 2017 20:41:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>
 	<item>
+		<title>fourth test</title>
+		<link>/articles/2017/07/18/fourth-test/</link>
+		<comments>/articles/2017/07/18/fourth-test/#respond</comments>
+		<pubDate>Tue, 18 Jul 2017 20:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[First Post]]></category>
+
+		<guid isPermaLink="false">/articles/?p=15</guid>
+		<description><![CDATA[this is another test]]></description>
+				<content:encoded><![CDATA[<p>this is another test</p>
+]]></content:encoded>
+			<wfw:commentRss>/articles/2017/07/18/fourth-test/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>third post testing plugins</title>
+		<link>/articles/2017/07/18/third-post-testing-plugins/</link>
+		<comments>/articles/2017/07/18/third-post-testing-plugins/#respond</comments>
+		<pubDate>Tue, 18 Jul 2017 20:38:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[First Post]]></category>
+
+		<guid isPermaLink="false">/articles/?p=13</guid>
+		<description><![CDATA[this is another test post]]></description>
+				<content:encoded><![CDATA[<p>this is another test post</p>
+]]></content:encoded>
+			<wfw:commentRss>/articles/2017/07/18/third-post-testing-plugins/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Test related post</title>
+		<link>/articles/2017/07/18/test-related-post/</link>
+		<comments>/articles/2017/07/18/test-related-post/#respond</comments>
+		<pubDate>Tue, 18 Jul 2017 20:27:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[First Post]]></category>
+
+		<guid isPermaLink="false">/articles/?p=11</guid>
+		<description><![CDATA[this is just a test]]></description>
+				<content:encoded><![CDATA[<p>this is just a test</p>
+]]></content:encoded>
+			<wfw:commentRss>/articles/2017/07/18/test-related-post/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Hello World!</title>
 		<link>/articles/2017/07/15/hello-world-post/</link>
 		<comments>/articles/2017/07/15/hello-world-post/#respond</comments>
